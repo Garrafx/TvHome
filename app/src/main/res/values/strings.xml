@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="a11y_desc">Porta il tasto Home del telecomando alla schermata Home di questo launcher.</string>
+</resources>
